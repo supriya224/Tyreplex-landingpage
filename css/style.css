@@ -79,7 +79,7 @@
   margin-top: 150px;
   margin-left: 60px;
 }
-.content h1 {
+.content h3 {
   font-size: 50px;
   color: white;
 }
@@ -102,7 +102,7 @@
     background-color: rgb(116, 116, 116);
 }
 @media screen and (max-width: 420px) {
-  .content h1 {
+  .content h3 {
     font-size: 30px;
   }
 }
@@ -247,7 +247,7 @@ img {
 .head{
     font-size: 12px;
 }
-#footer h1 {
+#footer h3 {
   color: white;
   padding-top: 30px;
 }
